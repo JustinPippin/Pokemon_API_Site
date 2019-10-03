@@ -1,0 +1,12 @@
+#pokemonInfoCard {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+body {
+    background-color: rgb(9, 219, 202);
+}
+
+#search {
+    background-color: blue;
+}
